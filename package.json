@@ -2,6 +2,7 @@
   "name": "dispatcher",
   "version": "0.4.0",
   "description": "LLM proposes, dispatcher enforces: local Claude Code runs → bot PR → CI evidence → human decision",
+  "license": "MIT",
   "type": "module",
   "bin": {
     "dispatcher": "src/cli.ts"
